@@ -6,11 +6,11 @@ import org.junit.Test;
 //        f(n)=f(n-1)+f(n-2) n>=2;
 public class FrogTest {
 
-//    @Test
-//    public void fun2() {
-//        int result = fun(4);
-//        System.out.println(result);
-//    }
+    @Test
+    public void fun2() {
+        int result = fun(4);
+        System.out.println(result);
+    }
 
     public int fun(int a) {
         if (a <= 0) {
