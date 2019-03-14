@@ -4,8 +4,8 @@ import java.util.Arrays;
 
 public class ArrayDemo {
     @Test
-    public void fun(){
-      int[] ArrayInt={1,1,3,2,9};
+    public void fun() {
+        int[] ArrayInt = {1, 1, 3, 2, 9};
 //数组排序
         Arrays.sort(ArrayInt);
 //      System.out.println(ArrayInt);
@@ -13,9 +13,9 @@ public class ArrayDemo {
         System.out.println(Arrays.toString(ArrayInt));
 
 
-      for (int i=0;i<ArrayInt.length;i++){
-          System.out.println(ArrayInt[i]);
+        for (int i = 0; i < ArrayInt.length; i++) {
+            System.out.println(ArrayInt[i]);
 
-      }
+        }
     }
 }
