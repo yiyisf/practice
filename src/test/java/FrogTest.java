@@ -18,9 +18,7 @@ public class FrogTest {
         }
 
     }
-    fun(int a){
-        return;
-    }
+
 
 
 }
