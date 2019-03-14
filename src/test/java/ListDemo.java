@@ -1,9 +1,6 @@
 import org.junit.Test;
 
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.Iterator;
-import java.util.LinkedList;
+import java.util.*;
 
 public class ListDemo {
     @Test
@@ -93,4 +90,24 @@ public class ListDemo {
         }
 
     }
+
+    @Test
+    public void fun6(){
+
+        ArrayList<String> strArray=new ArrayList<String>();
+        strArray.add("1");
+        strArray.add("5");
+        strArray.add("2");
+        strArray.add("6");
+        strArray.add("3");
+        strArray.add("7");
+        //排序
+        Collections.sort(strArray);
+        System.out.println(strArray);
+        //反转排序
+        Collections.reverse(strArray);
+        System.out.println(strArray);
+
+    }
+
 }
