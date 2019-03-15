@@ -1,0 +1,47 @@
+{
+  "uid" : "dc20093d6d316feb",
+  "name" : "fun1",
+  "fullName" : "ListDemoTest.fun1",
+  "historyId" : "d43da17aab54d0a6cccb2b51ee42ff6d",
+  "time" : {
+    "start" : 1552660513413,
+    "stop" : 1552660513414,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "ListDemoTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "fun1"
+  }, {
+    "name" : "suite",
+    "value" : "ListDemoTest"
+  }, {
+    "name" : "host",
+    "value" : "bogon"
+  }, {
+    "name" : "thread",
+    "value" : "81825@bogon.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dc20093d6d316feb.json",
+  "parameterValues" : [ ]
+}

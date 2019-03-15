@@ -1,0 +1,57 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "\nExpected: <3>\n     but: was <1>",
+      "children" : [ {
+        "name" : "fun000",
+        "uid" : "1f2edf268912d3e7",
+        "parentUid" : "1972b7480c7ef408cfe708242486e02e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1552660812056,
+          "stop" : 1552660812089,
+          "duration" : 33
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1972b7480c7ef408cfe708242486e02e"
+    }, {
+      "name" : "expected:<3> but was:<2>",
+      "children" : [ {
+        "name" : "测试报告",
+        "uid" : "a667a55c25f86a29",
+        "parentUid" : "b92c6e1c93102940aba1fb7515cefa5b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1552660812096,
+          "stop" : 1552660812097,
+          "duration" : 1
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b92c6e1c93102940aba1fb7515cefa5b"
+    }, {
+      "name" : "\nExpected: <2>\n     but: was <1>",
+      "children" : [ {
+        "name" : "fun00",
+        "uid" : "aa6804cf99f040a",
+        "parentUid" : "dab7760e61b9f496edd3e2209b9cd195",
+        "status" : "failed",
+        "time" : {
+          "start" : 1552660812101,
+          "stop" : 1552660812102,
+          "duration" : 1
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dab7760e61b9f496edd3e2209b9cd195"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

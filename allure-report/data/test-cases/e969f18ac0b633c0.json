@@ -1,0 +1,47 @@
+{
+  "uid" : "e969f18ac0b633c0",
+  "name" : "fun5",
+  "fullName" : "FrogTest.fun5",
+  "historyId" : "d666eb26b146a86c54b22e164eacbeab",
+  "time" : {
+    "start" : 1552658335202,
+    "stop" : 1552658335205,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "FrogTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "fun5"
+  }, {
+    "name" : "suite",
+    "value" : "FrogTest"
+  }, {
+    "name" : "host",
+    "value" : "bogon"
+  }, {
+    "name" : "thread",
+    "value" : "77674@bogon.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e969f18ac0b633c0.json",
+  "parameterValues" : [ ]
+}

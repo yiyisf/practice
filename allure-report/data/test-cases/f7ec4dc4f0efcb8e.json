@@ -1,0 +1,47 @@
+{
+  "uid" : "f7ec4dc4f0efcb8e",
+  "name" : "fun7",
+  "fullName" : "ForDemoTest.fun7",
+  "historyId" : "d975cd0bce73904a50f717b2bcb4326",
+  "time" : {
+    "start" : 1552658335022,
+    "stop" : 1552658335023,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "ForDemoTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "fun7"
+  }, {
+    "name" : "suite",
+    "value" : "ForDemoTest"
+  }, {
+    "name" : "host",
+    "value" : "bogon"
+  }, {
+    "name" : "thread",
+    "value" : "77674@bogon.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7ec4dc4f0efcb8e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,47 @@
+{
+  "uid" : "fdc4124723296734",
+  "name" : "fun9",
+  "fullName" : "ForDemoTest.fun9",
+  "historyId" : "9061a673c6808277acb9a8d869c2fbec",
+  "time" : {
+    "start" : 1552658335054,
+    "stop" : 1552658335054,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "ForDemoTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "fun9"
+  }, {
+    "name" : "suite",
+    "value" : "ForDemoTest"
+  }, {
+    "name" : "host",
+    "value" : "bogon"
+  }, {
+    "name" : "thread",
+    "value" : "77674@bogon.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fdc4124723296734.json",
+  "parameterValues" : [ ]
+}

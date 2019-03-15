@@ -1,0 +1,351 @@
+[ {
+  "uid" : "6a93c0c488f663c8",
+  "name" : "fun3",
+  "time" : {
+    "start" : 1552660811847,
+    "stop" : 1552660811847,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb58bd9387fb79d6",
+  "name" : "fun3",
+  "time" : {
+    "start" : 1552660812192,
+    "stop" : 1552660812199,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f857b5494db4f693",
+  "name" : "fun",
+  "time" : {
+    "start" : 1552660811638,
+    "stop" : 1552660811644,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f980ec1762b0835",
+  "name" : "fun",
+  "time" : {
+    "start" : 1552660812158,
+    "stop" : 1552660812158,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ac6e6487f12e362",
+  "name" : "fun4",
+  "time" : {
+    "start" : 1552660812126,
+    "stop" : 1552660812127,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32008cf447a80450",
+  "name" : "fun2",
+  "time" : {
+    "start" : 1552660811943,
+    "stop" : 1552660811943,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5d620e039cfeebc",
+  "name" : "fun1",
+  "time" : {
+    "start" : 1552660811837,
+    "stop" : 1552660811838,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a87c4e720b299ef8",
+  "name" : "fun4",
+  "time" : {
+    "start" : 1552660812202,
+    "stop" : 1552660812203,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1cf61045616880ab",
+  "name" : "fun3",
+  "time" : {
+    "start" : 1552660811957,
+    "stop" : 1552660811958,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd5d98f08d2af189",
+  "name" : "fun3",
+  "time" : {
+    "start" : 1552660812120,
+    "stop" : 1552660812120,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ff37158edb7adb4",
+  "name" : "fun2",
+  "time" : {
+    "start" : 1552660812178,
+    "stop" : 1552660812190,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db1779c2552321c2",
+  "name" : "fun9",
+  "time" : {
+    "start" : 1552660812028,
+    "stop" : 1552660812028,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3cda29e63d721ccd",
+  "name" : "测试报告",
+  "time" : {
+    "start" : 1552660812108,
+    "stop" : 1552660812113,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f917e2b48dda232",
+  "name" : "fun6",
+  "time" : {
+    "start" : 1552660811876,
+    "stop" : 1552660811876,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f81b8b9795104b3",
+  "name" : "fun4",
+  "time" : {
+    "start" : 1552660811853,
+    "stop" : 1552660811853,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9788d9324f070d",
+  "name" : "fun5",
+  "time" : {
+    "start" : 1552660812205,
+    "stop" : 1552660812205,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "95569955efc8eac2",
+  "name" : "fun1",
+  "time" : {
+    "start" : 1552660811933,
+    "stop" : 1552660811933,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52f3b735358e9f36",
+  "name" : "fun1",
+  "time" : {
+    "start" : 1552660812160,
+    "stop" : 1552660812161,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79677f05a946c89e",
+  "name" : "fun2",
+  "time" : {
+    "start" : 1552660811842,
+    "stop" : 1552660811843,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78db6ad7192414a3",
+  "name" : "fun2",
+  "time" : {
+    "start" : 1552660812116,
+    "stop" : 1552660812116,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "148c1ea1bb75f4ba",
+  "name" : "fun10",
+  "time" : {
+    "start" : 1552660812036,
+    "stop" : 1552660812037,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d12c5dded974c5e4",
+  "name" : "fun5",
+  "time" : {
+    "start" : 1552660812129,
+    "stop" : 1552660812129,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a667a55c25f86a29",
+  "name" : "测试报告",
+  "time" : {
+    "start" : 1552660812096,
+    "stop" : 1552660812097,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c668bf618c71df51",
+  "name" : "fun2",
+  "time" : {
+    "start" : 1552660811981,
+    "stop" : 1552660811984,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ead297d7f6514620",
+  "name" : "fun3",
+  "time" : {
+    "start" : 1552660811994,
+    "stop" : 1552660811995,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e423f0795cab4487",
+  "name" : "fun8",
+  "time" : {
+    "start" : 1552660812025,
+    "stop" : 1552660812026,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f2edf268912d3e7",
+  "name" : "fun000",
+  "time" : {
+    "start" : 1552660812056,
+    "stop" : 1552660812089,
+    "duration" : 33
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e42c988759aae56",
+  "name" : "fun6",
+  "time" : {
+    "start" : 1552660812207,
+    "stop" : 1552660812208,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "542ff4d6f0a7e2d4",
+  "name" : "fun1",
+  "time" : {
+    "start" : 1552660811978,
+    "stop" : 1552660811979,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa6804cf99f040a",
+  "name" : "fun00",
+  "time" : {
+    "start" : 1552660812101,
+    "stop" : 1552660812102,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d12aac2ef93958e0",
+  "name" : "fun",
+  "time" : {
+    "start" : 1552660811897,
+    "stop" : 1552660811898,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d06efadb8f345ef",
+  "name" : "fun4",
+  "time" : {
+    "start" : 1552660811968,
+    "stop" : 1552660811972,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fba0debda5d2da94",
+  "name" : "fun5",
+  "time" : {
+    "start" : 1552660811860,
+    "stop" : 1552660811872,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f1705a2b611799a7",
+  "name" : "fun7",
+  "time" : {
+    "start" : 1552660812023,
+    "stop" : 1552660812023,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "998533463e161b93",
+  "name" : "fun6",
+  "time" : {
+    "start" : 1552660811998,
+    "stop" : 1552660812000,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

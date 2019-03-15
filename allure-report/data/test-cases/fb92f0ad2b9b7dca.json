@@ -1,0 +1,47 @@
+{
+  "uid" : "fb92f0ad2b9b7dca",
+  "name" : "fun3",
+  "fullName" : "MapDemoTest.fun3",
+  "historyId" : "b53a7ed0a62744d6dd4e2b73c2a2fde6",
+  "time" : {
+    "start" : 1552660513214,
+    "stop" : 1552660513216,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "MapDemoTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "fun3"
+  }, {
+    "name" : "suite",
+    "value" : "MapDemoTest"
+  }, {
+    "name" : "host",
+    "value" : "bogon"
+  }, {
+    "name" : "thread",
+    "value" : "81825@bogon.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb92f0ad2b9b7dca.json",
+  "parameterValues" : [ ]
+}

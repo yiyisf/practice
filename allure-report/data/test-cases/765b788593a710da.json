@@ -1,0 +1,47 @@
+{
+  "uid" : "765b788593a710da",
+  "name" : "fun6",
+  "fullName" : "Base_TypeTest.fun6",
+  "historyId" : "a4e77e0b6eac8f05cee806f91d2db162",
+  "time" : {
+    "start" : 1552658470400,
+    "stop" : 1552658470400,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "Base_TypeTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "fun6"
+  }, {
+    "name" : "suite",
+    "value" : "Base_TypeTest"
+  }, {
+    "name" : "host",
+    "value" : "bogon"
+  }, {
+    "name" : "thread",
+    "value" : "77942@bogon.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "765b788593a710da.json",
+  "parameterValues" : [ ]
+}

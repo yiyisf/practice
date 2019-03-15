@@ -1,0 +1,47 @@
+{
+  "uid" : "fd89881b2449c720",
+  "name" : "fun4",
+  "fullName" : "FrogTest.fun4",
+  "historyId" : "f9585eda8215c4a8e615fc80faeb2df1",
+  "time" : {
+    "start" : 1552658335196,
+    "stop" : 1552658335196,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "FrogTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "fun4"
+  }, {
+    "name" : "suite",
+    "value" : "FrogTest"
+  }, {
+    "name" : "host",
+    "value" : "bogon"
+  }, {
+    "name" : "thread",
+    "value" : "77674@bogon.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd89881b2449c720.json",
+  "parameterValues" : [ ]
+}
