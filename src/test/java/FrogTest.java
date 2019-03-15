@@ -1,29 +1,35 @@
 import org.junit.Test;
 
-//        f(0)=0;
-//        f(1)=1;
-//        f(2)=2;
-//        f(n)=f(n-1)+f(n-2) n>=2;
 public class FrogTest {
-
     @Test
-    public void fun2() {
-        int result = fun(4);
+    public void fun1(){
+        int result = Frog.fun(5);
         System.out.println(result);
     }
 
-    public int fun(int a) {
-        if (a <= 0) {
-            return 0;
-        } else if (a == 1 || a == 2) {
-            return a;
-        } else {
-            return fun(a-1)+fun(a-2);
-        }
-
+    @Test
+    public void fun2(){
+        int result = Frog.fun(-1);
+        System.out.println(result);
     }
 
+    @Test
+    public void fun3(){
+        int result = Frog.fun(0);
+        System.out.println(result);
+    }
 
+    @Test
+    public void fun4(){
+        int result = Frog.fun(1);
+        System.out.println(result);
+    }
+
+    @Test
+    public void fun5(){
+        int result = Frog.fun(1000000);
+        System.out.println(result);
+    }
 
 
 
