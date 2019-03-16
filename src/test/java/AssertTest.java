@@ -1,7 +1,3 @@
-import io.qameta.allure.Description;
-import io.qameta.allure.Issue;
-import io.qameta.allure.Link;
-import io.qameta.allure.junit4.DisplayName;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ErrorCollector;
@@ -15,10 +11,6 @@ import static org.junit.Assert.assertThat;
  */
 public class AssertTest {
     @Test
-    @DisplayName("测试报告")
-    @Description("baogaojianjie")
-    @Link("https://testerhome.com")
-    @Issue("123")
     public void fun0(){
         assertEquals(2,2);
         assertEquals(3,2);
