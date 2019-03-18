@@ -21,9 +21,11 @@ public class Pig {
     }
 
     //方法
-  void eat(){
+  void eat(Food food){
         
-        System.out.printf("八戒最爱吃馒头了");
+        System.out.printf(this.name+"吃"+food.getFood());
 
     }
+
+
 }

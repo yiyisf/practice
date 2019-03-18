@@ -9,8 +9,10 @@ public class PigTest {
     public static void main(String[] args) {
 //        new一个对象，即一个实例
         Pig pig = new Pig("猪八戒");
+
+        Food food = new Food("西瓜");
 //        对对象进行操作
-        pig.eat();
+        pig.eat(food);
 
     }
 }
