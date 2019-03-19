@@ -4,7 +4,7 @@ package weapon;
  * Created by liuzhe on 2019/3/19.
  */
 public class Weapon {
-
+//属性
     private String name;
 
     private double length;
@@ -17,7 +17,7 @@ public class Weapon {
     private String madein;
 
     Monkey owner;
-
+//构造方法
     public Weapon(String name) {
         this.name = name;
     }
@@ -70,6 +70,7 @@ public class Weapon {
         this.owner = owner;
     }
 
+//重写
     @Override
     public String toString() {
         return "Weapon{" +
@@ -81,7 +82,7 @@ public class Weapon {
                 ", owner=" + owner.getName() +
                 '}';
     }
-
+//方法
     void print() {
 
         System.out.println(toString());
