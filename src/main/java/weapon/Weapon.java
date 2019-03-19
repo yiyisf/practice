@@ -16,7 +16,10 @@ public class Weapon {
 
     private String madein;
 
-    Monkey owner;
+    private Monkey owner;
+
+
+
 //构造方法
     public Weapon(String name) {
         this.name = name;

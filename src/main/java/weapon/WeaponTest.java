@@ -10,6 +10,7 @@ public class WeaponTest {
         owner.setName("孙悟空");
 //        System.out.printf(owner.getName());
 
+
         Weapon weapon1 = new Weapon("金箍棒");
 
         weapon1.setLength(7);
@@ -30,6 +31,7 @@ public class WeaponTest {
         weapon2.setWeight(502);
         weapon2.setStretchable(false);
         weapon2.setMadein("huaguoshan");
+        weapon2.setOwner(owner);
 
 //        weapon1.print();
     }
