@@ -5,18 +5,18 @@ package weapon;
  */
 public class Weapon {
 //属性
-    private String name;
+    private String name;//名字
 
-    private double length;
+    private double length;//长度
 
-    double weight;
+    double weight;//重量
 
-    private boolean isStretchable;
+    private boolean isStretchable;//是否
 
 
-    private String madein;
+    private String madein;//产地
 
-    private Monkey owner;
+    private Monkey owner;//所属的猴子
 
 
 

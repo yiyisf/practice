@@ -6,9 +6,9 @@ package weapon;
 public class WeaponTest {
     public static void main(String[] args) {
 //先定义对象，通过对象的方法操作对象内的属性
-        Monkey owner =new Monkey();
+        Monkey owner = new Monkey();
         owner.setName("孙悟空");
-//        System.out.printf(owner.getName());
+//       System.out.printf(owner.getName());
 
 
         Weapon weapon1 = new Weapon("金箍棒");
@@ -17,6 +17,8 @@ public class WeaponTest {
         weapon1.setWeight(67500);
         weapon1.setStretchable(true);
         weapon1.setMadein("donghai");
+
+//        引用Monkey类型的对象
         weapon1.setOwner(owner);
 
 
