@@ -12,13 +12,14 @@ public class TreeTest {
 
         tree.beEaten(1);
 
-        tree.hide(1);
+        tree.hide("hahaha",1);
 
         tree.beEaten(3);
 
         tree.hideAll();
 
-        tree.recover(23);
+        tree.recover(28);
+//        tree.recover(Tree.total1);
 
     }
 

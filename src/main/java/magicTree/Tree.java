@@ -4,19 +4,24 @@ package magicTree;
  * Created by liuzhe on 2019/3/20.
  */
 public class Tree {
-    private Integer total;
+
+//    public static Integer total1=28;
+    private  Integer total;
     private Integer hideNum;
+
+//    public Tree(int i) {
+//    }
 
     public Tree() {
         this.total = 28;
         this.hideNum = 0;
     }
 
-    public void hide(Integer i) {
+    public void hide(String who,Integer i) {
         if (this.total - i >= 0) {
             this.total = this.total - i;
             this.hideNum = this.hideNum + i;
-            System.out.println("掉土里" + i + "个！");
+            System.out.println(who+"掉土里" + i + "个！");
         } else {
             System.out.println("树空了，没得吃了！");
         }
