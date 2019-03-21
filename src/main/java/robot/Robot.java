@@ -25,7 +25,7 @@ public class Robot {
 
     public int encrypt(int data){
 //        %求余数  /求商
-// 9876   6  7 8 9
+// 9876   6  7  8  9
 
         int data1=data%10;
         int data2=data/10%10;
