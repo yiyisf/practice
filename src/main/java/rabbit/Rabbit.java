@@ -5,21 +5,17 @@ public class Rabbit {
 
 
     public int Rabbit(int num) {
-        this.num=num;
-        if (this.num<=2&&this.num>0)
+        this.num = num;
+        if (this.num == 2 || this.num == 1)
         {
-//           return 1;
-           System.out.println(1);
+            return 1;
         }
         else {
-            System.out.println(Rabbit(num-1)+Rabbit(num-2));
-
-
+            return Rabbit(num - 1) + Rabbit(num - 2);
         }
-
-        return num;
     }
 
-
-
+    public void Print() {
+        System.out.printf("第" + num + "个月兔子的总数为" + Rabbit(num));
+    }
 }
