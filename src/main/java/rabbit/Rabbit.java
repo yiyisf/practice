@@ -1,8 +1,8 @@
 package rabbit;
 
 public class Rabbit {
-    private int num;
 
+    private int num;
 
     public int Rabbit(int num) {
         this.num = num;
@@ -12,10 +12,11 @@ public class Rabbit {
         }
         else {
             return Rabbit(num - 1) + Rabbit(num - 2);
+
         }
+
+
     }
 
-    public void Print() {
-        System.out.printf("第" + num + "个月兔子的总数为" + Rabbit(num));
-    }
+
 }
